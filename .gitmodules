@@ -1,0 +1,3 @@
+[submodule "validarCorrelatividade"]
+	path = validarCorrelatividade
+	url = https://github.com/nicoScatolon/DDS-validarCorrelativas
